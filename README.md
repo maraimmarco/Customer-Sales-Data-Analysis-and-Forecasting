@@ -32,9 +32,9 @@ pip install matplotlib seaborn statsmodels scikit-learn prophet
    - Use aggregation and filtering to find insights such as the highest and lowest sales.
 
 ## Forecasting:
-    - Prepare data for forecasting by converting dates and aggregating sales.
-    - Train and predict using both Linear Regression and Prophet models.
-    - Plot forecasts and analyze trends.
+  - Prepare data for forecasting by converting dates and aggregating sales.
+  - Train and predict using both Linear Regression and Prophet models.
+  - Plot forecasts and analyze trends.
 
 ## Visualization
   - Generate various plots to visualize revenue, quantity sold, and percentage achievements.

@@ -17,6 +17,9 @@ To get started, clone this repository and install the required packages. You can
 ```bash
 pip install matplotlib seaborn statsmodels scikit-learn prophet
 ```
+```bash
+python -m pip install prophet
+```
 ## Usage 
 ### Data Preparation
   - Load your customer sales data into a DataFrame.
